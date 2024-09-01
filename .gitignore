@@ -38,8 +38,14 @@ out/
 *.zip
 *.tar.gz
 *.rar
+*.gradle
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+
+gradle/
+gradlew
+*.bat
+src/
